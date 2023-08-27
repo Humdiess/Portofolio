@@ -90,3 +90,17 @@
             border-color: #f9fafb;
             color: #f9fafb;
         }
+
+        .footer {
+            background-color: #334155;
+            color: white;
+            padding: 30px 0;
+        }
+
+        .footer a {
+            color: white;
+        }
+
+        .footer a:hover {
+            color: #ffc107;
+        }
